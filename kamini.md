@@ -1,10 +1,3 @@
-PDFPDF Thumbnail
-Generate MD file for this resume in the same format
-
-
-md
-
-
 # Kamini Singh
 **Phone**: +1 203-606-5286 | **Email**: kaamini18j@gmail.com | **Work Authorization**: Authorized to work in the U.S. (EAD)
 ## PROFESSIONAL SUMMARY
@@ -107,7 +100,4 @@ Worked as HCC coder (April 2012 to March 2013)
 *   Master of Science (Chemistry)
 *   Bachelor of Science (Biology)
 
-
-
-Type a message...
 
