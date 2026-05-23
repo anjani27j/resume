@@ -1,103 +1,85 @@
 # Kamini Singh
-**Phone**: +1 203-606-5286 | **Email**: kaamini18j@gmail.com | **Work Authorization**: Authorized to work in the U.S. (EAD)
+**Phone:** +1 203-606-5286 | **Email:** kaamini18j@gmail.com  
+**Work Authorization:** Authorized to work in the U.S. (EAD)  
+
+---
+
 ## PROFESSIONAL SUMMARY
-Medical Coding professional with 7+ years of experience in HCC/Risk Adjustment and inpatient/outpatient coding, supporting accurate reimbursement, compliance, and high-quality documentation. Currently expanding into Data Science and Data Engineering with hands-on Python coding, SQL fundamentals, and data workflow knowledge to support analytics and process automation.
+Medical Coding professional with 7+ years of experience in HCC/Risk Adjustment and inpatient/outpatient coding, supporting accurate reimbursement, compliance, and high-quality documentation. Actively pivoting and expanding into Data Science, Artificial Intelligence, and Machine Learning with 1 year of dedicated experience building academic/practical data workflows, hands-on Python engineering, machine learning modeling, and SQL database management to support healthcare analytics and process automation.
+
+---
+
 ## CORE SKILLS
-**Medical Coding**
-*   HCC / Risk Adjustment (CMS-HCC, RxHCC)
-*   RADV/IVA chart review
-*   ICD-10-CM, CPT, HCPCS; ICD-10-PCS/DRG exposure
-*   ED, outpatient, inpatient coding; E/M and surgical coding exposure
-*   Clinical documentation review, compliance, productivity and accuracy focus
-*   Tools: encoder/chart review tools (e.g., CARAT, Rave, Talix, Wave), Excel
-**Data Science & Data Engineering (Training)**
-*   Python (hands-on scripting; data cleaning and analysis)
-*   SQL (fundamentals; querying and joins)
-*   Data wrangling & visualization (pandas, matplotlib/seaborn – training)
-*   ETL/ELT concepts, data quality checks, workflow thinking
-*   Version control basics (Git – training)
-**Coding Experience** 9+ years
-**HCC Experience** 6+ years
-## DATA PROJECTS (PYTHON - HANDS-ON)
-*   **Healthcare Coding Data Explorer (Python)**: Built a small analysis workflow to clean, transform, and summarize coding-related datasets (CSV/Excel) using pandas; generated basic KPI outputs to support review and reporting.
-*   **SQL Practice: Claims-style Queries**: Wrote sample queries (joins, filters, aggregations) to extract patient/provider/service-level views from relational tables (training project).
-*   **Automation Scripts**: Created Python scripts to automate repetitive file tasks (renaming, validation checks, and formatting) to improve efficiency (hands-on practice).
+* **Medical Coding:** HCC / Risk Adjustment (CMS-HCC, RxHCC), RADV/IVA chart review, ICD-10-CM, CPT, HCPCS, ICD-10-PCS/DRG exposure, ED, outpatient, inpatient coding, E/M and surgical coding exposure, Clinical documentation review, compliance, productivity, and accuracy focus.
+* **Tools & Systems:** CARAT, Rave, Talix, Wave, 3M Encoder, VDesk Client VPN, MS Office (Excel, Word).
+* **Data Science & AI/ML:** Python (scripting, automated workflows), SQL (querying, joins, aggregations), Data Wrangling & Analysis (pandas, NumPy), Data Visualization (matplotlib, seaborn), Predictive Modeling & Machine Learning (scikit-learn), ETL/ELT pipelines, Git version control, data quality validation.
+
+---
+
 ## CERTIFICATIONS & TRAINING
-*   Certified Professional Coder (CPC), 2018
-*   Data Science & Data Engineering Training (in progress) - Python, SQL, data fundamentals
-## Medical Coding Skills
-*   Skilled in inpatient DRG coding.
-*   Analyzing and abstracting the PCS DRG value for the inpatient charts by using the 3M tool software.
-*   Skilled in HCC coding.
-*   Analyzing and abstracting ICD-10 codes by using the tool for finding HCC values for Medicare.
-*   Verify the acceptable provider signature and credential in the electronic health record, a handwritten report by provider and dictation notes by the provider.
-*   Reviewing HCC values for the patient with chronic and lifelong condition for inpatient and outpatient services.
-*   Using coding clinical guidelines (AHA) and ICD-10 code guideline to assign proper ICD-10 code based on patient’s history of past illness, present illness, and past surgeries.
-*   Verify the medication list in the record for ICD code that has RxHCC values.
-*   Worked as Outpatient Coder.
-*   Review and abstract PHI from the patient's chart.
-*   Assign ICD-9/ICD-10 dx codes for services rendered during visit.
-*   Assign CPT procedure codes with an assigned modifier if needed.
-*   Assign ICD-9/ICD-10 procedure codes based on procedure performed.
-*   Skilled in CPT, ICD-9 coding, HCPCS coding.
-*   Excellent experience in Emergency Department Coding, Surgery; Gastro, ENT procedures, Cardio (CAVD only), Neurosurgery (Spinal injection procedures only) &, Diagnostic Radiological Coding, E&M coding (Emergency Department coding).
-*   Worked on MDC project, worked on Drug Data, given presentation on anatomy session.
-*   Worked on codes change into ICD9 to ICD10, Editing in codes for many pilot projects.
-*   Excellence in using Excel sheets, Windows 98, 2000, XP MS Office 2000, office XP, Adobe Page Maker, Photoshop, Instant Artist, Internet Overview.
-## Professional Profile
-Working as senior HCC coder/Auditor in maxim staffing solution
-Worked for Aetna during HCC project
-*   Worked Cotiviti for Aetna (August 2020 to April 2021) as HCC coder
-*   Used ICD 10 for coding abstraction Worked on encoder chart
-*   Worked on 150 pages or 5 charts per hour.
-*   Worked 6- 8 charts per hour with accuracy 95%+.
-*   Worked on Client VPN using VDesk
-Worked for Cigna during HCC project
-*   Worked Cavo for Cigna (May 2021 to AUGUST 2021) as HCC coder
-*   Used ICD 10 for coding abstraction
-*   Worked 200 pages per hour with accuracy 95%+.
-*   Worked on Client VPN using VDesk
-Worked for MMO during HCC project
-*   Worked Weller healthcare for Medical Mutual of Ohio (MMO) (August 2021 to June 2022) for MA project as HCC coder
-*   Worked on HCC and ACA model.
-*   Used ICD 10 for coding abstraction
-*   Worked 200 pages per hour with accuracy 95%+.
-Worked as ED Coder for Pecos County Memorial Hospital (September 2011 to March 2012)
-*   Worked on 50-70 patient report with accuracy 95%+.
-*   Strong work ethic, organized, dedicated and reliable.
-Worked as HCC coder (April 2012 to March 2013)
-*   Used ICD 9-10 for coding abstraction Worked on encoder chart
-*   Worked on 150 pages or 5 charts per hour.
-*   Worked 6- 8 charts per hour with accuracy 95%+.
+* **IBM Data Science Professional Certificate** (Comprehensive training in Python, SQL, Data Analysis, Data Visualization, and Machine Learning algorithms)
+* **Certified Professional Coder (CPC)**, AAPC (2018)
+* **Data Science & Data Engineering Training** (Python, SQL, ETL, and AI/ML model deployment)
+
+---
+
+## DATA SCIENCE & AI/ML ACADEMIC PROJECTS
+* **Healthcare Coding Data Explorer & Predictive Analytics (1 Year Academic Project):** * Designed and engineered an automated Python-based data workflow using `pandas` and `NumPy` to ingest, clean, and transform large, complex healthcare datasets (CSV/Excel formats).
+    * Developed exploratory data analysis (EDA) pipelines and generated dynamic KPI reporting dashboards utilizing `matplotlib` and `seaborn` to extract key operational insights.
+    * Implemented machine learning models (scikit-learn) for predicting diagnostic coding trends, improving data ingestion accuracy, and setting up programmatic data quality and validation checks.
+* **Relational Claims Database & SQL Optimization:** * Constructed relational database models mimicking real-world healthcare claims systems.
+    * Wrote complex SQL queries incorporating multi-table joins, subqueries, conditional logic, and aggregations to efficiently extract patient, provider, and service-level financial views.
+* **Process Automation Scripts:** * Developed utility Python scripts to automate highly repetitive file tasks (bulk file renaming, automated data structural validation, and formatting reports) to drastically improve workflow efficiency.
+
+---
+
+## MEDICAL CODING SKILLS & EXPERIENCE
+* **Inpatient DRG Coding:** Proficient in analyzing and abstracting ICD-10-PCS and DRG values for complex inpatient medical charts utilizing 3M tool software.
+* **HCC/Risk Adjustment Coding:** Highly skilled in analyzing patient documentation to accurately abstract ICD-10-CM codes mapping to CMS-HCC and RxHCC values for Medicare Risk Adjustment.
+* **Provider Documentation Review:** Adequately verified acceptable provider signatures, credentials, handwritten notes, and official dictation records within electronic health records (EHR).
+* **Chronic Condition Tracking:** Reviewed longitudinal health records to capture lifelong chronic illnesses across inpatient and outpatient service paths using AHA and official ICD-10 coding guidelines.
+* **Outpatient & Emergency Department (ED) Expertise:** Extensive experience managing emergency encounters, surgical packages, gastrointestinal, ENT, CAVD-only cardiology, spinal injection neurosurgery, diagnostic radiology, and complex Evaluation and Management (E/M) charting.
+
+---
+
 ## PROFESSIONAL EXPERIENCE
-**Senior HCC Coder / Auditor** | Amergis Healthcare | Jul 2022 - Present
-*   Performed HCC/RxHCC coding and auditing for IVA/RADV chart reviews, ensuring documentation supported CMS guidelines.
-*   Reviewed coded records, identified gaps, and updated codes when warranted; sustained 95%+ accuracy on QA audits.
-*   Maintained productivity targets (e.g., 150 pages or 5 charts/hour) while preserving quality and compliance.
-*   Worked within secure client environments (VPN/virtual desktop) and across multiple coding platforms (CARAT, Rave).
-**HCC Coder (Part-Time)** | CSI Companies | Jul 2024 - Jan 2025
-*   Completed RADV chart audits at target throughput (5 charts/hour) while maintaining 95%+ quality scores.
-*   Performed coding validation and documented findings using internal tools (e.g., Wave) and QA processes.
-*   Always maintained 95%+ accuracy on weekly audits.
-*   Working on Wave tool.
-**Risk Adjustment Coder** | Weller Healthcare | Aug 2021 - Jun 2022
-*   Coded and validated HCC values for chronic/lifelong conditions; ensured documentation met CMS requirements.
-*   Verified provider signature/credentials and medication lists for RxHCC relevance.
-*   Met productivity expectations (e.g., ~150 pages or ~5 charts/hour) while sustaining 95%+ audit accuracy.
-**Risk Adjustment Coder** | CorroHealth (TrustHCS) | Aug 2020 - Jul 2021
-*   Reviewed medical records to identify reportable ICD-10-CM diagnoses mapping to HCC/RxHCC; ensured compliant abstraction.
-*   Supported inpatient documentation review where applicable (PCS/DRG) and collaborated on quality initiatives.
-*   Maintained 95%+ audit accuracy and met productivity expectations within secure client systems.
-**Risk Adjustment Coder** | Syrainfotech (payroll)-Aetna project | Jun 2020 - Aug 2020
-*   Reviewed submitted records to identify ICD-10-CM diagnoses mapping to HCC/RxHCC; ensured documentation met CMS standards.
-*   Accurately coded and abstracted diagnoses/services while maintaining confidentiality and data security requirements.
-*   Partnered with cross-functional teams to support quality and consistent coding outcomes.
-**Medical Coder (ED/E&M/Outpatient/HCC)** | Genpact | India | May 2011 - Nov 2013
-*   Coded ED and outpatient encounters using ICD-9/ICD-10-CM, CPT, and HCPCS; supported accurate charge capture.
-*   Abstracted PHI and clinical documentation to assign appropriate diagnosis and procedure codes.
-*   Supported coding quality initiatives including code-set transitions and internal pilot work.
+
+### Senior HCC Coder / Auditor
+**Amergis Healthcare (formerly Maxim Staffing Solutions)** | *Jul 2022 - Present*
+* Performed precise HCC/RxHCC coding and auditing for Initial Validation Audits (IVA) and Risk Adjustment Data Validation (RADV) chart reviews adhering strictly to CMS guidelines.
+* Reviewed audited charts, identified documentation gaps, and updated/corrected diagnosis codes while consistently maintaining a 95%+ accuracy rating on QA audits.
+* Sustained rigorous productivity targets of 150 pages or 5–8 complex charts per hour while maintaining elite data compliance.
+* Operated seamlessly within secure virtual client environments using VDesk Client VPN and various systems (CARAT, Rave).
+
+### HCC Coder (Part-Time)
+**CSI Companies** | *Jul 2024 - Jan 2025*
+* Completed high-volume RADV chart audits at a target throughput of 5 charts per hour while maintaining a 95%+ weekly audit quality score.
+* Executed validation protocols and programmatically documented findings using internal auditing platforms, including the Wave tool.
+
+### Risk Adjustment Coder
+**Weller Healthcare (Contracted for Medical Mutual of Ohio - MMO)** | *Aug 2021 - Jun 2022*
+* Validated and abstracted critical HCC values for chronic/lifelong medical conditions under the Medicare Advantage (MA) and ACA models.
+* Verified clinical provider signatures, credentials, and active pharmaceutical medication logs to ensure correct RxHCC assignment.
+* Maintained an average productivity of ~150 pages (5-8 charts) per hour with an audited accuracy rate of 95%+.
+
+### Risk Adjustment Coder
+**CorroHealth (TrustHCS) / Cotiviti (Contracted for Aetna)** | *Aug 2020 - Jul 2021*
+* Reviewed massive electronic medical charts (~150-200 pages per hour) to capture reportable ICD-10-CM codes mapping to HCC/RxHCC categories.
+* Collaborated on multi-disciplinary internal quality initiatives, supported inpatient documentation reviews (PCS/DRG), and utilized encoder chart software inside secure VDesk client desktops.
+
+### Risk Adjustment Coder
+**Syrainfotech (Payroll) - Aetna Project** | *Jun 2020 - Aug 2020*
+* Reviewed submitted medical records to extract valid ICD-10-CM diagnoses mapping to risk adjustment metrics following strict CMS compliance rules.
+* Partnered with cross-functional teams to align project deliverables and ensure consistent coding interpretations during fast-paced pilot initiatives.
+
+### Medical Coder (ED/E&M/Outpatient/HCC)
+**Genpact** | India | *May 2011 - Nov 2013*
+* Coded high-volume Emergency Department (ED) and diverse outpatient encounters using ICD-9/ICD-10-CM, CPT, and HCPCS code sets to ensure accurate charge captures.
+* Abstracted Protected Health Information (PHI) carefully, translated legacy ICD-9 records into modern ICD-10 formats, and gave internal training presentations on clinical anatomy.
+* *Note: Also served as an ED Coder for Pecos County Memorial Hospital from Sept 2011 to Mar 2012, abstracting 50–70 patient reports daily at 95%+ accuracy.*
+
+---
+
 ## EDUCATION
-*   Master of Science (Chemistry)
-*   Bachelor of Science (Biology)
-
-
+* **Master of Science (M.S.) in Chemistry**
+* **Bachelor of Science (B.S.) in Biology**
