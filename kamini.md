@@ -37,7 +37,7 @@ Medical Coding professional with 7+ years of experience in HCC/Risk Adjustment a
 * **Inpatient DRG Coding:** Proficient in analyzing and abstracting ICD-10-PCS and DRG values for complex inpatient medical charts utilizing 3M tool software.
 * **HCC/Risk Adjustment Coding:** Highly skilled in analyzing patient documentation to accurately abstract ICD-10-CM codes mapping to CMS-HCC and RxHCC values for Medicare Risk Adjustment.
 * **Provider Documentation Review:** Adequately verified acceptable provider signatures, credentials, handwritten notes, and official dictation records within electronic health records (EHR).
-* **Chronic Condition Tracking:** Reviewed longitudinal health records to capture lifelong chronic illnesses across inpatient and outpatient service paths using AHA and official ICD-10 coding guidelines.
+* **Chronic Condition Tracking:** Reviewed longitudinal health records to capture lifelong chronic illnesses across inpatient and outpatient service using AHA and official ICD-10 coding guidelines.
 * **Outpatient & Emergency Department (ED) Expertise:** Extensive experience managing emergency encounters, surgical packages, gastrointestinal, ENT, CAVD-only cardiology, spinal injection neurosurgery, diagnostic radiology, and complex Evaluation and Management (E/M) charting.
 
 ---
