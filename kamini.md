@@ -44,6 +44,9 @@ Medical Coding professional with 7+ years of experience in HCC/Risk Adjustment a
 
 ## PROFESSIONAL EXPERIENCE
 
+### Heart Disease Prediction System using Machine Learning
+Developed an end-to-end predictive model to identify cardiovascular disease risk based on patient clinical attributes (age, sys blood pressure,Dias blood pressure,etc....) utilizing the UCI machine learning repository. Implemented, evaluated, and compared multiple supervised learning classifiers, including Logistic Regression, Decision Tree, and Random Forest. Optimized model performance using Python (pandas, scikit-learn), achieving a peak predictive accuracy of 86.88% with Logistic Regression to assist in early, non-invasive clinical diagnostic insights.
+
 ### Senior HCC Coder / Auditor
 **Amergis Healthcare (formerly Maxim Staffing Solutions)** | *Jul 2022 - Present*
 * Performed precise HCC/RxHCC coding and auditing for Initial Validation Audits (IVA) and Risk Adjustment Data Validation (RADV) chart reviews adhering strictly to CMS guidelines.
